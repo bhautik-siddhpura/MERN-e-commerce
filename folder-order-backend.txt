@@ -1,0 +1,61 @@
+D:\MERN e-commerce\Backend\server.js
+
+D:\MERN e-commerce\Backend\config\db.js
+
+=====>authRoute
+
+D:\MERN e-commerce\Backend\routes\authRoute.js
+
+D:\MERN e-commerce\Backend\model\User.js
+
+D:\MERN e-commerce\Backend\utils\sendEmail.js
+
+D:\MERN e-commerce\Backend\controllers\authController.js
+
+D:\MERN e-commerce\Backend\middleware\authMiddleware.js
+
+D:\MERN e-commerce\Backend\config\cloudinary.js
+
+------------------------------
+
+=====>productRoutes
+
+D:\MERN e-commerce\Backend\server.js
+
+D:\MERN e-commerce\Backend\routes\productRoutes.js
+
+D:\MERN e-commerce\Backend\model\Product.js
+
+D:\MERN e-commerce\Backend\controllers\productController.js
+
+------------------------------
+
+=====>orderRoutes
+
+D:\MERN e-commerce\Backend\routes\orderRoutes.js
+
+D:\MERN e-commerce\Backend\model\Order.js
+
+D:\MERN e-commerce\Backend\controllers\orderController.js
+
+------------------------------
+
+=====>paymentRoutes
+
+
+D:\MERN e-commerce\Backend\routes\paymentRoutes.js
+
+D:\MERN e-commerce\Backend\controllers\paymentController.js
+
+------------------------------
+
+=====>analyticsRoutes
+
+D:\MERN e-commerce\Backend\routes\analyticsRoutes.js
+
+D:\MERN e-commerce\Backend\controllers\analyticsController.js
+
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjZhNGNhYjk1Y2FjZTVlZThkNmM0OTc5YiIsImlhdCI6MTc4MzU3NzgyNCwiZXhwIjoxNzg2MTY5ODI0fQ.4F-hAH2jOgf5nV909aYDubJqkSri3FES6KL1--C7yxY
+

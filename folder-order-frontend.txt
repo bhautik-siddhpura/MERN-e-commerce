@@ -1,0 +1,42 @@
+D:\MERN e-commerce\Frontend\package.json
+
+D:\MERN e-commerce\Frontend\src\main.jsx
+
+D:\MERN e-commerce\Frontend\src\App.jsx
+
+D:\MERN e-commerce\Frontend\src\index.css
+
+D:\MERN e-commerce\Frontend\src\components\Navbar.jsx
+
+D:\MERN e-commerce\Frontend\src\pages\Home.jsx
+
+D:\MERN e-commerce\Frontend\src\components\Footer.jsx
+
+D:\MERN e-commerce\Frontend\src\context\AuthContext.jsx
+
+D:\MERN e-commerce\Frontend\src\context\AuthProvider.jsx
+
+D:\MERN e-commerce\Frontend\src\components\productCard.jsx
+
+D:\MERN e-commerce\Frontend\src\redux\cartSlice.jsx
+
+D:\MERN e-commerce\Frontend\src\redux\store.jsx
+
+D:\MERN e-commerce\Frontend\src\pages\About.jsx
+
+D:\MERN e-commerce\Frontend\src\pages\Contact.jsx
+
+D:\MERN e-commerce\Frontend\src\pages\PrivacyPolicy.jsx
+
+D:\MERN e-commerce\Frontend\src\pages\TermsConditions.jsx
+
+D:\MERN e-commerce\Frontend\src\pages\Login.jsx
+
+D:\MERN e-commerce\Frontend\src\pages\Register.jsx
+
+D:\MERN e-commerce\Frontend\src\pages\ProductDetail.jsx
+
+
+
+
+

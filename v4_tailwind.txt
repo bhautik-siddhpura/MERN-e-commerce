@@ -1,0 +1,51 @@
+npm create vite@latest my-app -- --template react
+
+cd my-app
+
+npm install tailwindcss @tailwindcss/vite
+
+------------------
+vite.config.js -->
+
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
+
+export default defineConfig({
+  plugins: [
+    react(),
+    tailwindcss(),
+  ],
+})
+------------------
+
+
+------------------
+src/index.css -->
+
+@import "tailwindcss";
+//Delete all existing code 
+------------------
+
+
+------------------
+src/App.jsx -->
+
+//sample
+
+function App() {
+  return (
+    <div className="min-h-screen flex items-center justify-center bg-blue-100">
+      <h1 className="text-5xl font-bold text-blue-600">
+        Tailwind CSS Working 🚀
+      </h1>
+    </div>
+  )
+}
+
+export default App
+------------------
+
+
+
+npm run dev
